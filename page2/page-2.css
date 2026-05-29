@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image1{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.hr1{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    height: 1px;
+    background-color: rgb(24, 2, 2);
+}
+.text1{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -1595px;
+    gap: 70px;
+}
+.hr2{
+    position: relative;
+    top: -700px;
+    width: 18%;
+    left: 5%;
+    height: 600px;
+    padding: 2px;
+    border: 5px solid black;
+    border-radius: 70px;
+
+}
+.hr3{
+    position: relative;
+    top:-1300px;
+    width:4%;
+    left: 11.5%;
+    padding:12px;
+    border: 2px solid rgb(29, 6, 6);
+    border-radius: 50px;
+    background-color: rgb(29, 6, 6);
+
+}
+
+.instruction{
+    position: relative;
+    top: -1080px;
+    left: 8%;
+}
+
+.image2{
+    position:relative;
+    width: 20%;
+    top:-550px;
+    left: 10%;
+}
+
+.hr4{
+    position: relative;
+    top: -1580px;
+    width: 20%;
+    left: 70%;
+    height: 600px;
+    padding: 8px;
+    border: 4px solid black;
+    border-radius: 45px;
+
+}
+.text2{
+    position: relative;
+    top: -2180px;
+    left: 76%;
+    font-size: 15px;
+}
+.text2 p{
+    position:relative;
+    left:-5%;
+    top: 50px;
+}
+.hr5{
+    position:relative;
+    top:-85%;
+    padding: 15px;
+    border: 1px solid rgb(29, 6, 6);
+    background-color: rgba(219, 211, 211, 0.26);
+}
+.text3{
+    position:relative;
+    top: -2080px;
+    left: 71%;
+    font-size: 14px;
+
+}
+
+.hr6{
+    position:relative;
+    top:-77%;
+    padding: 15px;
+    border: 1px solid rgb(29, 6, 6);
+    background-color: rgba(219, 211, 211, 0.26);
+}
+.text p2{
+    position:relative;
+    top: -2000px;
+    left: 71%;
+    font-size: 14px;
+}
+
+.text4{
+    position:relative;
+    top: -2000px;
+    left: 71%;
+    font-size: 14px;
+}
+
+.hr7{
+    position:relative;
+    top:-67%;
+    padding: 15px;
+    border: 1px solid rgb(29, 6, 6);
+    background-color: rgba(219, 211, 211, 0.26);
+}
+
+.hr8{
+    position:relative;
+    top:-840px;
+    width: 6%;
+    left: 76%;
+    padding: 20px;
+    border-radius: 50px;
+    border: 1px solid rgb(29, 6, 6);
+    background-color: rgba(137, 81, 209, 0.973);
+
+}
+
+.text4 p2{
+    position:relative;
+    top:230px;
+    left:3%;
+}
+
+.text4 p3{
+    position:relative;
+    top: 280px;
+    left: 1%;
+    
+}
+
+.triangle{
+    position:relative;
+    top:-1153.9px;
+    width: 45.0%;
+    left: 2.9%;
+    border-radius: 115px;
+    opacity: 0.7;
+}

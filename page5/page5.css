@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.image1{
+    position: absolute;
+    opacity: 0.3;
+    width: 100%;
+    height: 100vh;
+    top: -10px;
+}
+
+.text1{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 7px;
+    gap: 70px;
+}
+
+
+.menu ul{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+
+    list-style: none;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.menu::after{
+    content: "";
+
+    display: block;
+
+    width: 400px;
+    height: 1px;
+
+    background-color: black;
+
+    margin: 10px auto;
+}
+
+.titre-conseil{
+    text-align: center;
+
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.titre-conseil h1{
+    font-size: 20px;
+}
+
+.conteneur-conseils{
+    display: flex;
+    justify-content: space-between;
+
+    gap: 30px;
+
+    margin-bottom: 50px;
+}
+
+.boite-conseil{
+    width: 30%;
+}
+
+.boite-conseil h2{
+    font-size: 18px;
+
+    margin-bottom: 10px;
+}
+
+.boite-conseil p{
+    position: relative;
+    margin-bottom: 10px;
+
+    line-height: 1.5;
+}
+
+.boite-conseil ul{
+    position: relative;
+    padding-left: 20px;
+}
+
+.boite-conseil li{
+    margin-bottom: 5px;
+    
+}

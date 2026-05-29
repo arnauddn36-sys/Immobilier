@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.agent-immobilier{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+.logo{
+    
+position: relative;
+top: -899px;
+left: 50px;
+border-radius: 80%;
+
+}
+.text1{
+position: relative;
+display:flex;
+gap: 50px;
+top: -1150px;
+left: 32%;
+ }
+.text1 h3{
+    position: relative;
+    top: -2px;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.hr{
+    position: absolute;
+    top: 700%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+}
+
+.hr{
+    position:relative;
+    top: -930px;
+    width: 50%;
+    left: 50.9%;
+}
+.section{
+    position: relative;
+    top: -900px;
+    left: 52%;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+}
+.hr2{
+    position: relative;
+    top: 600px;
+    left: -40%;
+    width: 60%;
+    padding: 20px;
+    border: 1px solid rgb(20, 24, 2);
+    border-radius: 30px;
+    background-color: rgba(194, 231, 29, 0.979);
+}
+
+.hr3{
+    position: relative;
+    top: 557px;
+    left: -39.9%;
+    width: 1%;
+    padding: 20px;
+    border: 1px solid rgb(20, 24, 2);
+    border-radius: 30px;
+    background-color: rgba(23, 27, 3, 0.979);
+    
+}
+.hr4{
+    position: relative;
+    top: 517px;
+    left: 19%;
+    width: 1%;
+    padding: 20px;
+    border: 1px solid rgb(20, 24, 2);
+    border-radius: 30px;
+    background-color: rgba(23, 27, 3, 0.979);
+}
+
+.section2{
+    position: relative;
+    top: -738px;
+    left: 66%;
+    font-size: 15px;
+    transform: translate(-50%, -50%);
+}
+.fa-regular{
+    position: relative;
+    left: -10px;
+    color: rgb(35, 35, 119);
+}
+
+.fa-solid{
+    position: relative;
+    left: -10px;
+    color: rgb(17, 46, 206);
+}
